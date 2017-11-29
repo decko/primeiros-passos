@@ -2,13 +2,13 @@
 Tudo o que você queria saber sobre boas práticas de desenvolvimento em um órgão público mas tinha medo de perguntar.
 
 ## O que é isto?
-Este documento é uma tentativa de fornecer as bases para o iniciar o desenvolvimento dos sistemas do Ministério da Cultura. A idéia é que com o menor esforço possivel, você consiga adequar seu código a um conjunto de boas práticas e verificações automatizadas que te auxilie no dia a dia do desenvolvimento.
+Este documento é uma tentativa de fornecer as bases para o iniciar o desenvolvimento dos sistemas do [Ministério da Cultura](http://cultura.gov.br/). A idéia é que com o menor esforço possivel, você consiga adequar seu código a um conjunto de boas práticas e verificações automatizadas que te auxilie no desenvolvimento.
 
 ## Por onde começar
-Primeiramente..., leia o README.md do projeto com o qual você vai trabalhar. Ele deve conter requisitos minimos para desenvolvimento e execução, com instruções necessárias para construir, instanciar e manter um ambiente de desenvolvimento com o que for necessário. Deve conter também os requisitos e informações sobre como rodar o software em um ambiente de produção.
+Primeiramente, leia o README.md do projeto com o qual você vai trabalhar. Ele deve conter requisitos minimos para desenvolvimento e execução, com instruções necessárias para construir, instanciar e manter um ambiente de desenvolvimento com o que for necessário. Deve conter também os requisitos e informações sobre como rodar o software em um ambiente de produção.
 
 ## O que devo usar?
-Os desenvolvedores tem liberdade e autonomia para utilizarem as ferramentas com as quais se sintam confortavéis, desde que respeitem o conjunto de regras decididas em consenso sobre a base de código. Assim, você é livre para utilizar o editor/IDE que quiser, desde que respeite coisas como formatação/identação de código, verificações de "linters", dentre outros acordos comuns.
+Os desenvolvedores tem **liberdade e autonomia** para utilizarem as ferramentas com as quais se sintam confortavéis, desde que respeitem o conjunto de regras decididas em **consenso** sobre a base de código. Assim, você é livre para utilizar o editor/IDE que quiser, desde que respeite coisas como formatação/identação de código, verificações de "linters", dentre outros acordos comuns.
 
 ### Editores/IDEs
 
